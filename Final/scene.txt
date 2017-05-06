@@ -1,0 +1,61 @@
+/*Original Grid Data also sets the boundaries of when the boids will 
+turn back*\
+Row: 9
+Column: 9
+
+/*Original Object Data ( data navigates down colums so if you want a certain position add rows + colums. so in a 
+4x4 grid row 2 colum 2 would be : 2 + 4 = index 6 ). So the first number is the position, and the second number is the velocity *\
+
+Number of Objects: 28
+Vision Radius: 0.0001
+Boundary Size: 2
+Repelling Speed: 5
+Wind: 0 0 0
+Limit Velocity: 100
+
+o 1 0 0 0.5
+o 2 0 0 -0.5
+o 3 0 0 0.5
+o 7 0 0 -0.5
+o 8 0 0 0.5
+
+o 9 0 0 -0.5
+o 10 0 0 0.5
+o 11 0 0 -0.5
+o 12 0 0 0.5
+o 16 0 0 -0.5
+
+o 17 0 0 0.5
+o 18 0 0 -0.5
+o 81 0 0 0.5
+o 80 0 0 -0.5
+o 79 0 0 0.5
+
+o 75 0 0 -0.5
+o 74 0 0 0.5
+o 73 0 0 -0.5
+o 66 0 0 0.5
+o 65 0 0 -0.5
+
+o 64 0 0 0.5
+o 70 0 0 -0.5
+o 71 0 0 0.5
+o 72 0 0 -0.5
+o 62 0 0 0.5
+ 
+o 56 0 0 -0.5
+o 20 0 0 0.5
+o 26 0 0 -0.5
+
+
+
+
+
+
+
+
+
+
+
+
+

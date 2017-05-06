@@ -1,0 +1,33 @@
+Sample Code
+Written By: Andrew Robert Owens
+Copyright (c) 2017
+
+Taken code snippets from learnopengl.com (instancing) and intergrated it. --Dan
+
+CPSC587F17 Animaiton
+
+== CONTROLS ==
+w                   : move forward
+s                   : move backward
+a                   : strife left
+d                   : strife right
+q                   : move up
+e                   : move down
+
+arrow left			: rotate to the left
+arrow right			: rotate to the right
+arrow up			: rotates camera up
+arrow down			: rotates camera down
+shift+arrow left	: roll camera left
+shift+arrow right	: roll camera right
+
+space bar			: pause/play
+esc					: exit
+
+***************** Assignment 4 plus
+./Quadanimation <filename>
+3 files provided big.txt, small.txt, scene.txt,
+most parameters can be changed in the text file need to put a space after the colon.
+I don't parse through the file I just expect certain numbers and words at certain points.
+I commented out the orientation code because it was incomplete and didn't work well, it should work on the lab computers now (I have not tested it, I just assumed).
+Have a great summer, please go easy on the marking the final is going to kill me Cheers.
